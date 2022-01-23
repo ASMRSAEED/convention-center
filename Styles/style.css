@@ -7,3 +7,11 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.check-circle-color {
+    color: blueviolet;
+}
+
+.button-background-color {
+    color: brown;
+}
