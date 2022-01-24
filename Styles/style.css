@@ -15,3 +15,18 @@ body {
 .banker-color {
     color: #747474;
 }
+
+.button-color {
+    color: #747474;
+}
+
+.badge {
+    margin-top: -15px;
+    margin-right: 30px;
+    
+}
+
+#popular {
+    border-radius: 25px;
+}
+
